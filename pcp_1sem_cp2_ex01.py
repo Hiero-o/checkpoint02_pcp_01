@@ -1,3 +1,7 @@
+# Progrma que calcula a carga do caminhao convertido em quilos
+# Calcula o preço da carga do caminhão, de acordo com o código da carga
+# Calcula o imposto cobrado, de acordo com o estado de destino da carga
+# Calcula o total a ser pago, somando o preço da carga e o imposto sobrado.
 
 num_estado = int(input("Escreva um valor inteiro de 1 a 5:\n R:"))
 
